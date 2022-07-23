@@ -1,0 +1,9 @@
+// font dpi
+//laptop dpi
+//Xft.dpi: 284
+Xft.dpi:92
+
+//rxvt-unicode
+Rxvt*background: black
+Rxvt*foreground: white
+URxvt*font: xft:DejaVu Sans Mono,xft:WenQuanYi Micro Hei Mono,xft:Fira Mono for Powerline

@@ -1,0 +1,1 @@
+xrandr --fb 1920x1080 --output DP-1-4 --mode 1920x1080 --output eDP-1 --off
